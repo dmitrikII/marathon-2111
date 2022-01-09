@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #e5e5e5;
 }
 
@@ -146,10 +146,9 @@ body {
   line-height: 24px;
 }
 
-.education {
-}
+/* .education {} */
 
-.edu_work {
+-- > .edu_work {
   color: #fb6d3a;
   font-style: normal;
   font-weight: bold;
